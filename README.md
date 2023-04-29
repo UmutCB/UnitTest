@@ -20,7 +20,7 @@ Call the CountUniqueUrls method to count the unique URLs
 Call the CountUniqueUrlsPerTopLevelDomain method to count the unique URLs per top-level domain
 
 Examples: Here's an example of how to use the program:
-
+"
 using System;
 using System.Collections.Generic;
 
@@ -51,7 +51,7 @@ namespace Example
         }
     }
 }
-
+"
 
 Tests: The program includes unit tests using Xunit. To run the tests, simply open the Test Explorer in Visual Studio and run all tests. The tests cover the following scenarios:
 
